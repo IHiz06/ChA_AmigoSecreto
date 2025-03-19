@@ -2,8 +2,8 @@
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #4B69FD;
+    --color-button-hover: #3A50C4;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #0538df;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
